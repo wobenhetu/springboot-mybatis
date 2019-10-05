@@ -10,11 +10,6 @@ import org.springframework.web.bind.annotation.RestController;
 
 import java.util.List;
 
-/**
- * @Author:0xOO
- * @Date: 2018/9/26 0026
- * @Time: 14:42
- */
 
 @RestController
 @RequestMapping("/testBoot")
