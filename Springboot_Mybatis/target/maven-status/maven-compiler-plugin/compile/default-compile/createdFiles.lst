@@ -1,0 +1,5 @@
+com\example\entity\User.class
+com\example\mapper\UserMapper.class
+com\example\service\UserService.class
+com\example\controller\UserController.class
+com\example\MybatisApplication.class
